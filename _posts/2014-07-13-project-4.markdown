@@ -1,0 +1,16 @@
+---
+title: SI USP Jr.
+subtitle: Site Instituicional e Portfolio
+layout: default
+modal-id: 4
+date: 2014-07-13
+img: siuspjrsite.png
+thumbnail: siuspjrsite-thumbnail.png
+alt: SI USP Jr. Site
+project-date: Janeiro 2014
+client: SI USP Jr.
+category: Web Development (HTML5 CSS3 PHP)
+description: Site instituicional e portfólio da empresa SI USP Jr
+avaiable: Link
+projectLink: http://siuspjr.com
+---

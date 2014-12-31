@@ -1,0 +1,16 @@
+---
+title: Sem Parar Taxi/Taxista
+subtitle: Desenvolvimento Android/IOS/Web 
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: semparar.png
+thumbnail: semparar-thumbnail.png
+alt: Sem Parar Taxi
+project-date: Setembro-2013 ~ Setembro-2014 
+client: Sem Parar
+category: Aplicativo Android, iOS e Desenvolvimento Web
+description: Aplicativo de taxi para recebimento/solicitação de corridas, atrelado à um sistema de pagamento de corridas de fácil usabilidade. Desenvolvimento Front-end e Back-End do sistema web, Android* e iOS*
+avaiable: Link
+projectLink: http://www.semparar.com.br/taxi/
+---
