@@ -2,7 +2,7 @@
 title: Desafio PONG - EACH-USP
 subtitle: Unity 3d Game
 layout: default
-modal-id: 5
+modal-id: 7
 date: 2014-07-12
 img: pong.png
 thumbnail: pong-thumbnail.png

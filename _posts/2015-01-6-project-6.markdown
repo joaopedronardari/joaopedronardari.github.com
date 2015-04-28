@@ -1,0 +1,17 @@
+---
+title: Artigo Cocos2d-x 3.0
+subtitle: Android / Windows / Games 
+layout: default
+modal-id: 1
+date: 2015-01-6
+img: semparar.png
+thumbnail: semparar-thumbnail.png
+alt: Sem Parar Taxi
+project-date: Janeiro 2015 
+client: Intel
+category: Android e Windows
+description: Artigo que ensina como criar um jogo simples utilizando o framework Cocos2d-X, versão 3.0 ou superior, em um ambiente de desenvolvimento Windows* e como compilar para rodar em Windows e Android* (x86 e ARM).
+Com este artigo ganhei o reconhecimento de Top January Windows Articles do Intel Developer Zone. 
+avaiable: Link
+projectLink: https://software.intel.com/en-us/articles/creating-multi-platform-games-with-cocos2d-x-version-30-or-later
+---
