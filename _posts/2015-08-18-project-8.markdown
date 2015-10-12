@@ -1,6 +1,6 @@
 ---
 title: Intel RealSense - Apps em uma nova dimensão
-subtitle: Palestra na Semana de Sistemas de Informação da USP
+subtitle: Palestra na Semana de SI-USP
 layout: default
 modal-id: 8
 date: 2015-08-18
