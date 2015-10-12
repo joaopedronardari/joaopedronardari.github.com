@@ -1,6 +1,6 @@
 ---
 title: Intel RealSense - Samples + Hands On Lab
-subtitle: Artigo e Evento Intel
+subtitle: Artigo e Eventos Intel
 layout: default
 modal-id: 7
 date: 2015-03-16
@@ -11,5 +11,6 @@ project-date: Janeiro 2015
 client: Intel
 category: Artigo Evento Intel RealSense
 description: Samples desenvolvidos em conjunto com Felipe Pedroso, atual evangelista de RealSense e Windows na Intel Brasil. Os samples foram utilizados nos eventos Hands On Lab no Instituto Insper e no The Developers Conference SP 2015.
+avaiable: Intel Developers Zone
 projectLink: https://software.intel.com/en-us/articles/intel-realsense-sdk-code-samples
 ---
