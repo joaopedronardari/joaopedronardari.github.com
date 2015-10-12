@@ -1,0 +1,15 @@
+---
+title: Intel RealSense - Apps em uma nova dimensão
+subtitle: Palestra na Semana de Sistemas de Informação da USP
+layout: default
+modal-id: 8
+date: 2015-08-18
+img: pong.png
+thumbnail: pong-thumbnail.png
+alt: Palestra RealSense 
+project-date: Janeiro 2015
+client: Intel
+category: Artigo Evento Intel RealSense
+description: Palestra ministrada durante a semana de sistemas de informação da USP. Pude explicar sobre as principais funcionalidades da camera e SDK Intel RealSense. 103 pessoas presentes.
+projectLink: http://pt.slideshare.net/joaonardari/intel-realsense-apps-em-uma-nova-dimenso
+---

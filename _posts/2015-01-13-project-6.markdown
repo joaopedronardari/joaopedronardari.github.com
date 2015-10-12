@@ -1,0 +1,15 @@
+---
+title: Criando Jogos Multiplataforma com Cocos2d-x 3.0
+subtitle: Artigo Intel Developers Zone
+layout: default
+modal-id: 6
+date: 2015-01-13
+img: pong.png
+thumbnail: pong-thumbnail.png
+alt: Artigo Criando Jogos Multiplataforma com Cocos2d-x
+project-date: Janeiro 2015
+client: Intel
+category: Artigo C++ Android Windows
+description: Artigo que ensina passo-a-passo como criar um jogo para Android e Windows utilizando o framework Cocos2d-X na nova versão 3.0
+projectLink: https://software.intel.com/pt-br/articles/creating-multi-platform-games-with-cocos2d-x-version-30-or-later
+---
