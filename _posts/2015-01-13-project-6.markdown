@@ -4,8 +4,8 @@ subtitle: Artigo Intel Developers Zone
 layout: default
 modal-id: 6
 date: 2015-01-13
-img: pong.png
-thumbnail: pong-thumbnail.png
+img: cocos.png
+thumbnail: cocos-thumbnail.png
 alt: Artigo Criando Jogos Multiplataforma com Cocos2d-x
 project-date: Janeiro 2015
 client: Intel

@@ -4,8 +4,8 @@ subtitle: Palestra na Semana de SI-USP
 layout: default
 modal-id: 8
 date: 2015-08-18
-img: pong.png
-thumbnail: pong-thumbnail.png
+img: palestrassiusp.png
+thumbnail: palestrassiusp-thumbnail.png
 alt: Palestra RealSense 
 project-date: Janeiro 2015
 client: Intel

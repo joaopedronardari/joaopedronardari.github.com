@@ -4,8 +4,8 @@ subtitle: Artigo e Evento Intel
 layout: default
 modal-id: 7
 date: 2015-03-16
-img: pong.png
-thumbnail: pong-thumbnail.png
+img: handson.png
+thumbnail: handson-thumbnail.png
 alt: Artigo Evento HandsOn Lab IntelRealSense
 project-date: Janeiro 2015
 client: Intel
